@@ -1,5 +1,0 @@
-model,depth,r4,r8,r12,r16,r20,r25,interpretation
-ViT-B/16,12,149,101,53,11,4,2,r=8/12/16 practical; r=20/25 extreme
-DeiT-S/16,12,149,101,53,11,4,2,same token schedule as ViT-B/16
-DeiT-B/16,12,149,101,53,11,4,2,same token schedule as ViT-B/16
-ViT-L/16,24,101,7,2,,,,r=8/12 already highly aggressive
