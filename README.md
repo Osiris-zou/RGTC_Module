@@ -8,7 +8,7 @@ This repository provides the source code, experimental protocols, testing metada
 Submitted to **The Visual Computer**.
 
 > **Software release DOI:** `Zenodo DOI: https://doi.org/10.5281/zenodo.20663724`
-> **GitHub repository:** `https://github.com/Osiris-zou/Reliability-Guided-Token-Compression`  
+> **GitHub repository:** `https://github.com/Osiris-zou/RGTC_Module`  
 > **Release version corresponding to the revised manuscript:** `v1.0.0`
 
 The repository is organized to make the reported experiments reproducible while respecting the licenses and access conditions of third-party datasets and pretrained model checkpoints.
