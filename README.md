@@ -1,5 +1,7 @@
 # Reliability-Guided Token Compression for Efficient Transformer-Based Visual Inference
 
+![img_1.png](images/img.png)
+
 This repository provides the source code, experimental protocols, testing metadata, and result tables associated with the manuscript:
 
 **Reliability-Guided Token Compression for Efficient Transformer-Based Visual Inference**  
