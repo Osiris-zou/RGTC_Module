@@ -7,7 +7,7 @@ This repository provides the source code, experimental protocols, testing metada
 **Reliability-Guided Token Compression for Efficient Transformer-Based Visual Inference**  
 Submitted to **The Visual Computer**.
 
-> **Software release DOI:** `<ZENODO-DOI-URL>`  
+> **Software release DOI:** `Zenodo DOI: https://doi.org/10.5281/zenodo.20663724`
 > **GitHub repository:** `https://github.com/Osiris-zou/Reliability-Guided-Token-Compression`  
 > **Release version corresponding to the revised manuscript:** `v1.0.0`
 
