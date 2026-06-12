@@ -1,0 +1,16 @@
+name: rgtc-classification
+channels: [pytorch, nvidia, conda-forge]
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.1
+  - numpy
+  - pillow
+  - tqdm
+  - matplotlib
+  - pandas
+  - pip
+  - pip:
+      - timm
+      - fvcore

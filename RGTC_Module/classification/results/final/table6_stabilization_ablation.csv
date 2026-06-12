@@ -1,0 +1,4 @@
+model,model_name,variant,r,beta,stabilization,top1,top5,throughput_img_s,observation
+ViT-B/16,vit_base_patch16_224,Without NaN-safe margin,8,0.015,unsafe,68.18,89.81,1391.73,unstable
+ViT-B/16,vit_base_patch16_224,"Safe margin, beta=0",8,0.0,safe,83.7,97.02,1412.39,stable
+ViT-B/16,vit_base_patch16_224,"Safe margin, beta=0.015",8,0.015,safe,83.75,97.04,1404.08,improved
