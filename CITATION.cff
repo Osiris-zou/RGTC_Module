@@ -13,7 +13,7 @@ authors:
     given-names: Zhida
 version: "1.0.0"
 date-released: "2026-XX-XX"
-repository-code: "https://github.com/Osiris-zou/Reliability-Guided-Token-Compression"
-url: "<ZENODO-DOI-URL>"
-doi: "<ZENODO-DOI>"
+repository-code: "https://github.com/Osiris-zou/RGTC_Module"
+url: "https://doi.org/10.5281/zenodo.20663724"
+doi: 10.5281/zenodo.20663724
 notes: "Software associated with a manuscript submitted to The Visual Computer."
