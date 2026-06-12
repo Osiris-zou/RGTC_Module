@@ -1,0 +1,4 @@
+method,ratio,beta,num_images,fid,lpips_vs_full,ms_ssim_vs_full,avg_time_sec,speedup_vs_full,avg_peak_mem_gb,max_peak_mem_gb,mem_reduction_vs_full_percent
+full,0.0,-,2000,35.308163,0.000000,1.000000,4.597490,1.000000,6.122600,6.122600,0.000000
+tome,0.5,-,2000,36.554564,0.380437,0.646687,3.115745,1.475567,4.892000,4.892000,20.099304
+reliability_guided,0.5,0.005,2000,36.624908,0.380228,0.646569,3.084432,1.490547,4.892000,4.892000,20.099304

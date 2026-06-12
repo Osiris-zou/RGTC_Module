@@ -1,0 +1,1 @@
+The Stable Diffusion model implementation is adapted from https://github.com/hkproj/pytorch-stable-diffusion (MIT). The two-dimensional merge/unmerge baseline is adapted from ToMe for Stable Diffusion. The authors' contribution is the reliability-guided ranking score and the experiment/evaluation package.

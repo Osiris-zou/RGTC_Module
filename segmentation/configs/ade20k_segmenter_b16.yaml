@@ -1,0 +1,14 @@
+normalization: vit
+short_side: 512
+max_long_side: 2048
+window_size: 512
+window_stride: 480
+window_batch_size: 4
+classes: 150
+r_values: [16, 32, 48]
+beta_map: {16: 0.015, 32: 0.035, 48: 0.050}
+throughput:
+  batch_size: 1
+  warmup: 20
+  runs: 50
+  repeats: 5

@@ -1,0 +1,17 @@
+name: rgtc-sd
+channels: [pytorch, nvidia, conda-forge]
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.1
+  - numpy
+  - pillow
+  - scipy
+  - pandas
+  - pip
+  - pip:
+      - transformers
+      - lpips
+      - pytorch-msssim
+      - pytorch-fid
